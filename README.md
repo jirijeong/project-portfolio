@@ -13,8 +13,9 @@ View Template : React<br><br>
 ## 프로젝트 설명<br>
 카페 운영 시간 지인의 MD 배송과 제품 주문 서비스를 포함한 페이지 개설 요청으로 진행<br>
 .
-메인페이지 화면
+ - 메인페이지 화면
 ![image](https://user-images.githubusercontent.com/115599977/228779898-47a3a1b6-2f01-4907-b763-24df48792096.png)
 .
 ##  구현한 기능
-- 전체 페이지 CSS작
+- 전체 페이지 CSS작성
+- 
